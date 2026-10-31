@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Thỏ béo",
+    "description": "Thỏ béo"
+  },
+  "data": [
+    {
+      "name": "UAA",
+      "author": "Thorbeos",
+      "path": "https://raw.github.com/nguyenhuy2368/vbook-ext/main/Uaa.zip",
+      "version": 1,
+      "source": "https://www.uaa.com/novel",
+      "icon": "https://raw.githubusercontent.com/SoulGodEve9x9/Vbook-ext/Nahona/Image/uaa.png",
+      "description": "Đọc truyện trên trang uaa",
+      "type": "chinese_novel",
+      "locale": "zh_CN",
+      "tag": "nsfw"
+    }
+  ]
+}
